@@ -6,3 +6,6 @@ console.log(`This is version 1 the original`))
 console.log(`This is version 2 code #1`)
 console.log(`This is version 2 code #2`)
 
+//Third block of code (changes)
+console.log(`This is version 3 code #1`)
+console.log(`This is version 3 code #2`)
